@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+  Creating Time-tables Using Features to be covered:rowspan,colspan,cell spacing,table borders,colors
+   <html>
+     <head>
+            <title>time table</title>
+    </head>
+    <body bgcolor="skyblue">
+    <h1><font color="dark cyan><center>COLLEGE TIME TABLE</font></h1>
+   <table border ="2" cell spacing="3" align="center">
+    <tr>
+      <td>align="center"</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+
+   </tr>
+
+
+
+
+   </body>
+
+
+
+   </html>

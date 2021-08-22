@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>type demo</title>
+  </head>
+  <body>
+    Various headings in HTML.5<br><br>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2><br><br>
+
+    Writing paragraphs in HTML<br>
+    <P align="left">This is the first paragraph</p>
+    <p align="center">This is the second paragraph</p><br><br>
+
+    HTML5 links<br><br>
+    <a href="file:///C:/Users/vigneshwar/OneDrive/Desktop/itws.html">Home page</a>
+    Working with images<br><br>
+   <img ="/image/html.png"alt="Html" target="_blank">
+
+    Working with lists<br><br>
+    
+   Unordered lists<br><br>
+
+     <ul>
+      <li>Item 1</li>
+     <li>Item 2</li>
+     <li>Item 3</li>
+    <li>Item 4</li>
+     </ul><br><br>
+ 
+ Ordered lists<br><br>
+    <ol>
+     <li>Item 1</>
+     <li>Item 1</>
+    <li>Item 1</>
+   <li>Item 1</>
+    </ol><br><br>
+
+  Working with tables<br><br>
+    <table width="80%">
+         <thead>
+              <tr>
+                <th>Name</th>
+                <th>Roll Number</th>
+                 <th>Phone Number</th>
+              </tr>
+       </thead>
+         <tbody>
+             <tr>
+                <td>student 1</td>
+                <td>101</td>
+                <td>9696969699</td>
+            </tr>
+              <tr>
+                <td>student 2</td>
+                <td>102</td>
+                <td>9696969696</td>
+            </tr>
+                <tr>
+                <td>student 3</td>
+                <td>103</td>
+                <td>96969696999</td>
+            </tr>
+       </tbody>
+     </table>
+ 
+    
+  </body>  
+  
+</html>
